@@ -1098,7 +1098,7 @@ header .row {
 header .top-bar {
 	display: block;
 	background: #000000;
-	min-width: 160px;
+	min-width: 170px;
 	min-height: 66px;
 	position: absolute;
 	left: 90px;
@@ -1131,7 +1131,7 @@ header .logo a {
  */
 .menu-toggle {
 	float: left;
-	width: 40px;
+	width: 45px;
 	height: 40px;
 	margin-left: 20px;
 	margin-top: 13px;
